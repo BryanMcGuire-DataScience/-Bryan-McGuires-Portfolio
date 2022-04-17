@@ -1,6 +1,7 @@
-# Portfolio
-## Data Science Portfolio
+### Data Science Portfolio
 
 
-### This is an example of a data science portfolio using github as a wenpage
+# Project 1
+
+This is an example of a data science portfolio using github as a webpage
 
