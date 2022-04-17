@@ -5,7 +5,7 @@
 
 **This is an simple example of usining linear regression on some salary data.**
 
-- Data set is around 100 data points for the sake of brevity
+- Data set attached is around 40 data points for the sake of brevity.
 
 
 [Project 2, multi linear regression model.](https://github.com/BryanMcGuire-DataScience/simple_linear_regression)
