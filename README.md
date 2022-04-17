@@ -1,7 +1,7 @@
 ### Data Science Examples
 
 
-## [Project 1, A simple linear regression model.](https://github.com/BryanMcGuire-DataScience/simple_linear_regression)
+H3 [Project 1, A simple linear regression model.](https://github.com/BryanMcGuire-DataScience/simple_linear_regression)
 
 **This is an simple example of usining linear regression on some salary data.**
 
