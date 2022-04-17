@@ -23,8 +23,7 @@
 - Data set is around 100 data points for the sake of brevity
 
 
-[Project 4, naive bayes model.](https://github.com/BryanMcGuire-DataScience/simple_linear_regression)
+[Project 4, Buying Advertising Time.](https://github.com/BryanMcGuire-DataScience/Sales_example)
 
-**This is an simple example of usinging multiple linear regression on some salary data.**
+**This is an example of usinging sales data to optimise the best time to display TV advertising.**
 
-- Data set is around 100 data points for the sake of brevity
