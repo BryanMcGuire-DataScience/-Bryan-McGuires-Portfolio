@@ -23,7 +23,7 @@
 - Data set is around 100 data points for the sake of brevity
 
 
-[Project 4, Buying Advertising Time.](https://github.com/BryanMcGuire-DataScience/Sales_example)
+[Project 4, Analysing Sales Data.](https://github.com/BryanMcGuire-DataScience/Sales_example)
 
 **This is an example of analysing sales data.**
 - Explores sales data and asnwers 3 questions
