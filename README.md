@@ -26,7 +26,7 @@
 [Project 4, Analysing Sales Data.](https://github.com/BryanMcGuire-DataScience/Sales_example)
 
 **This is an example of analysing sales data.**
-- Explores sales data and asnwers 3 questions
+- Explores sales data and answers 3 questions
 - What are the best products
 - When is the best time to advistise products
 - What cities sell the most popular products
