@@ -31,3 +31,14 @@
 - When is the best time to advistise products
 - What cities sell the most popular products
 
+
+[Project 5, Introduction to Statsmodel.](https://github.com/BryanMcGuire-DataScience/stats_model)
+
+**This is an introduction to using the Statsmodel package in Python.**
+
+
+
+
+
+
+
