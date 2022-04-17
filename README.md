@@ -1,4 +1,4 @@
-### Data Science Examples
+## Data Science coding examples using Python & R
 
 
 [Project 1, A simple linear regression model.](https://github.com/BryanMcGuire-DataScience/simple_linear_regression)
