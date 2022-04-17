@@ -25,6 +25,9 @@
 
 [Project 4, Buying Advertising Time.](https://github.com/BryanMcGuire-DataScience/Sales_example)
 
-**This is an example of usinging sales data to optimise the best time to display TV advertising.**
-- Explores data
+**This is an example of analysing sales data.**
+- Explores sales data and asnwers 3 questions
+- What are the best products
+- When is the best time to advistise products
+- What cities sell the most popular products
 
