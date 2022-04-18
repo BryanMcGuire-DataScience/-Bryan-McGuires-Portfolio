@@ -16,11 +16,9 @@
 
 
 
-[Project 3, polynominal regression model.](https://github.com/BryanMcGuire-DataScience/simple_linear_regression)
+[Project 3, polynominal regression model.](https://github.com/BryanMcGuire-DataScience/polynominal_regression)
 
-**This is an simple example of usinging linear regression on some salary data.**
-
-- Data set is around 100 data points for the sake of brevity
+**This is an example of usinging polynomial linear regression on some salary data.**
 
 
 [Project 4, Analysing Sales Data.](https://github.com/BryanMcGuire-DataScience/Sales_example)
