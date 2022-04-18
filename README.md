@@ -10,7 +10,7 @@
 
 [Project 2, multi linear regression model.](https://github.com/BryanMcGuire-DataScience/multi_linear_regression)
 
-**This is an simple example of usinging multiple linear regression on some salary data.**
+**An example of usinging multiple linear regression on some salary data.**
 
 
 [Project 3, polynominal regression model.](https://github.com/BryanMcGuire-DataScience/polynominal_regression)
@@ -21,6 +21,7 @@
 [Project 4, Analysing Sales Data.](https://github.com/BryanMcGuire-DataScience/Sales_example)
 
 **This is an example of analysing sales data.**
+
 - Explores sales data and answers 3 questions
 - What are the best products?
 - When is the best time to advistise products?
