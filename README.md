@@ -32,9 +32,7 @@
 
 **This is an introduction to using the Statsmodel package in Python.**
 
+**Data Sets**
 
-[data_sets](https://github.com/BryanMcGuire-DataScience/data_sets)
-
-
-
+[Data_Sets can be found here](https://github.com/BryanMcGuire-DataScience/data_sets)
 
